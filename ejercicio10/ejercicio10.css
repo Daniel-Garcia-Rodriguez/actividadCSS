@@ -1,0 +1,73 @@
+@font-face {
+  font-family: 'Moon Dance';
+  src: url('../fuentes/MoonDance.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Playwrite';
+  src: url('../fuentes/Playwrite.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Roboto Condensed';
+  src: url('../fuentes/RobotoCondensed.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Sixty Four Convergence';
+  src: url('../fuentes/SixtyfourConvergence.ttf') format('truetype');
+}
+
+
+
+
+body {
+  background-color: #339670;
+}
+
+h1 {
+  font-family: 'Sixty Four Convergence';
+  font-weight: 400;
+  font-style: normal;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 12px;
+}
+
+.virgilio {
+  font-family: 'Playwrite';
+  font-size:xx-small;
+  font-weight: 300;
+  font-style: italic;
+  text-align:center;
+  line-height:200%;
+  word-spacing: 19%;
+  margin-left: 30%;
+  margin-right: 30%;
+  color: #000000;
+}
+
+.frase {
+  font-family: 'Roboto Condensed';
+  font-size: x-large;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.trad {
+  font-family: 'Moon Dance';
+  font-size: xx-large;
+  font-weight: 300;
+  font-style: italic;
+  text-align: right;
+  letter-spacing: 2px;
+  color: #ffffff;
+}
+
+strong {
+  font-weight: 700;
+}
+
+cite {
+  text-decoration: underline;
+}

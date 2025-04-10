@@ -1,0 +1,40 @@
+body {
+    background-color: #eeeeee;
+    color: #000000;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    color: #222222;
+    font-size: 200%;
+    text-align: center;
+    }
+
+h2 {
+    background-color: #888888;
+    color: #ff0000;
+    font-size: 150%;
+    }
+
+p {
+    background-color: #cccccc;
+    line-height: 140%;
+}
+
+em {
+    color: #0000ff;
+    font-style: normal;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+strong {
+    color: #008000;
+    font-style: normal;
+    font-weight: normal;
+}
+
+daw{
+    background-color: #d6c104;
+}

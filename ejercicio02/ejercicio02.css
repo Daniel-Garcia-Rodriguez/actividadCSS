@@ -1,0 +1,14 @@
+pre{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 90%;
+}
+
+p {
+    text-decoration: overline;
+    padding-left: 80px;
+}
+
+strong {
+    color:#1f1fca ;
+    font-size: 200%;
+}

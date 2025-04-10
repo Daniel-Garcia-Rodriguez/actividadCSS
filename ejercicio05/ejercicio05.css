@@ -1,0 +1,41 @@
+body {
+    margin: 4%;
+    background-color: #d3d3d3;
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 320%;
+    letter-spacing: 8px;                    /*SEPARACION DE LETRAS*/
+    text-align: center;
+}
+
+h2 {
+    background-color: #808080;
+    color: white;
+    font-size: 230%;
+}
+
+p {
+    margin-right: 10%;
+    margin-left: 10%;
+    text-indent: 2rem;                      /*DESPLAZA EL PRINCIPIO DEL TEXTO A LA DERECHA*/
+}
+
+img {
+    float: left;                            /*IMAGEN A LA IZQUIERDA DEL TEXTO*/
+    margin: 0 10px 10px 0;                  /*MARGENES DE LA IMAGEN*/
+}
+
+strong {
+	font-weight: bold;
+	}
+	
+em {
+    color: #fb4450 ;
+}
+
+figcaption {
+    color:#F5E9CE;
+}

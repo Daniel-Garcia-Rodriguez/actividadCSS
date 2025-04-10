@@ -1,0 +1,35 @@
+body {
+    background-color: hwb(205 75% 18%);               /*COLOR DE FONDO*/
+    font-family: arial;                                 /*TIPO DE FUENTE*/
+    text-align: justify;                                /*AJUSTAR EL MISMO ESPACIO EN LOS DOS MARGENES*/
+}
+
+h1 {
+    color: #222121;                                   /*COLOR DE FUENTE*/
+    font-size: 225%;                                    /*TAMAÑO DE FUENTE*/
+    text-align: center;                                 /*ALINEAR TEXTO AL CENTRO*/
+}
+
+h2 {
+    background-color: #6990a3;                        /*COLOR DE FONDO*/
+    color: #404e54;                                   /*COLOR DE FUENTE/*
+    font-size: 190%;                                    /*TAMAÑO DE FUENTE*/
+    text-decoration: underline;                         /*SUBRAYADO*/
+}
+
+h3 {
+    background-color: #869fac;                        /*COLOR DE FONDO*/
+    color: #4f595f;                                   /*COLOR DE FUENTE*/
+    font-size: 130%;                                    /*TAMAÑO DE FUENTE*/
+    font-style: italic;                                 /*CURSIVA*/
+}
+
+p {
+    background-color: #9aafb8;                        /*COLOR DE FONDO*/
+}
+
+p strong em {                                           /*APLICA A LAS ETIQUETAS p, em Y strong*/
+    background-color: #ffffff;                        /*COLOR DE FONDO*/
+    text-align: right;                                  /*ALINEA EL TEXTO A LA DERECHA*/
+    display: block;                                     /*ASEGURA QUE EL TEXTO OCUPE TODA LA LINEA*/
+}
